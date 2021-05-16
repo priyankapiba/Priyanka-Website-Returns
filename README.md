@@ -1,6 +1,6 @@
 # 👤 Portfolio Website
 
-> ### Checkout Website at https://priyankapiba.github.io/Priyanka-Website-Returns/
+> ### Checkout Website at https://priyankapiba.github.io/PriyankaWebsite/
 > ### Deployed using [Github Pages](https://pages.github.com/)
 
 ## Technologies Used
